@@ -1,2 +1,2 @@
-# cmsi282
-Homework assignments from CMSI 282
+# cmsi282 - Algorithms
+Homework assignments from CMSI 282 - Algorithms
